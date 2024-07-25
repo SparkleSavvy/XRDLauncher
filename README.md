@@ -5,3 +5,6 @@
 
 > [!TIP]
 > Move XRDLauncher to your Rust game directory, and launch XRDLauncher.bat. Have fun!
+
+> [!WARNING]
+> The use of cheats or software that gives you an advantage over other players will result in a game account ban if detected!
