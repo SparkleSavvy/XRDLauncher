@@ -10,6 +10,4 @@
 > The use of cheats or software that gives you an advantage over other players will result in a game account ban if detected!
 
 ### Screenshots
-[Watch screenshot1](https://imgur.com/YbphTxW)
-
-[Watch screenshot2](https://imgur.com/yADoBVJ)
+[View screenshot](https://imgur.com/YbphTxW)
